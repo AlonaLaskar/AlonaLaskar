@@ -18,7 +18,7 @@ With high motivation and a strong desire to prove myself, I am constantly strivi
 
 ---
 
-## 🚀 Technologies I Work With
+## 💻Technologies I Work With
 
 <table>
   <tr>
